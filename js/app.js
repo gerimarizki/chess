@@ -1,10 +1,4 @@
-/*
- * 3D Artwig chess set
- * @JulianGarnier
- *
- * Licensed under the MIT license.
- * Copyright 2012 Julian Garnier
- */
+
 
 var chess = new Chess();
 var currentColor = chess.turn();
